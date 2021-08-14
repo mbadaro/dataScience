@@ -1,8 +1,5 @@
 # Projeto 1 - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile
 
-# Obs: Essa é a versão 1. A versão 0, não funcionou por alguns motivos (citados lá). Vou
-# começar novamente aqui.
-
 
 ## 1 - Definição e Compreensão do Problema de Negócio:
 
